@@ -10,14 +10,12 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+| Fajr Mohammed Alsmail | 2250000478 | Leader |
+| Fatima Hassan AlSadiq  | 2250006588  | Member |
+| Weam Ali Alshamarani  | 2250000322  | Member |
+| Layan Mubarak Alotaibi | 2250006986  | Member |
+| Ghofrane Hosni Hasnaoui  | 2250009414 | Member |
 
-> Remove any unused member row if your group has fewer than 6 members.
 
 ## Dataset
 
@@ -30,7 +28,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Student Exam Performance Dataset](https://www.kaggle.com/datasets/mobeenfatimah/student-exam-performance-and-success-dataset)
 
 ##  Requirements
 
@@ -91,7 +89,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [ARTI303-Group02](https://github.com/FajrAlsmail/ARTI303-Group02)
 
 ## Submission
 
